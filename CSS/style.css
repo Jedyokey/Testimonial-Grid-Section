@@ -166,7 +166,7 @@ body {
         position: relative; 
         top: -0.3125rem;
     }
-    .flex-detail-2 {
+    .flex-detail-2, .grid-item p {
         font-size: 13px;
         font-weight: normal;
     }
